@@ -1,0 +1,7 @@
+Dimension,PopSize (default),Minimum (avg),Iterations (avg),f(x) calls (avg),Selection (default),Crossover (default),Mutation
+16,25,6.690652637212808e14,1.70805454e6,4.27013885e7,truncation,DC,mutation
+16,25,7.302266052416685e14,1.7346143e6,4.33653825e7,truncation,DC,mutation
+32,25,2.861030952968652e15,973293.5,2.43323625e7,truncation,DC,mutation
+32,25,2.5272174493088115e15,878794.78,2.19698945e7,truncation,DC,mutation
+64,25,8.91642118056919e15,496249.12,1.2406253e7,truncation,DC,mutation
+64,25,8.693554490265738e15,505733.36,1.2643359e7,truncation,DC,mutation
